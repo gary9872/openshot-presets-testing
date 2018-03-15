@@ -11,7 +11,7 @@
 	<videobitrate
 	 low="384 kb/s"
 	 med="3.5 Mb/s"
-	 high="15.00 Mb/s"></videobitrate>
+	 high="5.50 Mb/s"></videobitrate>
 	<audiobitrate
 	 low="96 kb/s"
 	 med="128 kb/s"
